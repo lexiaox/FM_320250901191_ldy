@@ -110,7 +110,7 @@ FM_320250901191_乐豆芽/
 
 | 项目 | 版本 |
 | --- | --- |
-| 云平台 | 华为云鲲鹏弹性云服务器 ECS，aarch64 |
+| 云平台 | 华为云鲲鹏弹性云服务器（aarch64 架构） |
 | 操作系统 | openEuler 22.03 LTS |
 | JDK | OpenJDK 1.8.0_412（Bisheng build） |
 | 编译命令 | `javac -encoding UTF-8 -d out src/*.java` |
