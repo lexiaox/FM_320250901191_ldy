@@ -1,0 +1,16 @@
+# 编译输出
+out/
+build/
+*.class
+
+# macOS
+.DS_Store
+._*
+
+# Word 临时文件
+~$*.docx
+
+# 编辑器
+.idea/
+.vscode/
+*.iml
